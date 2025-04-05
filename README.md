@@ -3,7 +3,7 @@ A Python-based Autonomous AI Agent that automates tasks like scraping AI news he
 
 🎥 Video Walkthrough
 Watch the full demo here:
-🔗 Project Demo
+🔗 Project Demo: https://github.com/Spandana928/Autonomous-AI-Agent/edit/main/README.md
 
 🚀 Features
 ✅ AI News Scraper: Fetches the top 5 latest AI headlines from Google News.
