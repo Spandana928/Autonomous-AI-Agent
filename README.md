@@ -1,4 +1,7 @@
  Autonomous AI Agent
+
+
+ 
 A Python-based Autonomous AI Agent that automates tasks like scraping AI news headlines, summarizing smartphone reviews, and analyzing renewable energy trends with PDF generation.
 
 🎥 Video Walkthrough
